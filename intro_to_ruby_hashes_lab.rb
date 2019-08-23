@@ -1,6 +1,6 @@
 def base_hash
   local_base_hash = {
-    :railroads => ""
+    :railroads => {}
   }
   local_base_hash
 end
