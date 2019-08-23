@@ -15,7 +15,7 @@ end
 def monopoly_with_third_tier
   local_base_hash = {
     :railroads => {:pieces => 4, :rent_in_dollars => {
-      :key1 => "value1",
+      :names => "value1",
       :key2 => "value2",
       :key3 => "value3",
       :key4 => "value4"
