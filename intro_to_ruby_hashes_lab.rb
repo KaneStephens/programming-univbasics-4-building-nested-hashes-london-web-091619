@@ -1,5 +1,5 @@
 def base_hash
-  
+  local_base_hash
 	{}
 end
 
